@@ -8,7 +8,6 @@ to be delivered within the time windows will result in penalty.
 - [Folders](#folders)
 - [Functional Files](#functional-files)
 - [Executional Files](#executional-files)
-- [Authors](#authors)
 
 # Folders
 ## input
@@ -44,7 +43,3 @@ This file contains functions of visualizing the result of better analysis.
 This file is the draft version of codes studying the efficienty of the algorithms considering the dynamics of the problem. 
 ## ratioplot.py
 Functions in this file plot how the number and status of the parcels and couriers change during the simuation for better comparison and understanding. A simple simulation is also included in this file for just checking whether the simulation successfully works.
-
-# Authors
-- **Zhongbo Yao** - *Licentiate PhD Student at KTH*
-- **Michele D Simonis** - *Assistant Professor at KTH* 
